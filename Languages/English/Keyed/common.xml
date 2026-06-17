@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <MessageCustomizer.LoadingLabel>Loading Message Customizer</MessageCustomizer.LoadingLabel>
+    <MessageCustomizer.SettingsTitle>Message Customizer</MessageCustomizer.SettingsTitle>
+
+    <MessageCustomizer.Enabled>Enable Message Customizer</MessageCustomizer.Enabled>
+    <MessageCustomizer.PickColor>Pick Color...</MessageCustomizer.PickColor>
+    <MessageCustomizer.Brightness>Brightness</MessageCustomizer.Brightness>
+    <MessageCustomizer.Preview>Preview</MessageCustomizer.Preview>
+    <MessageCustomizer.Reset>Reset Defaults</MessageCustomizer.Reset>
+    <MessageCustomizer.PreviewText>Message Customizer preview: this is a test message.</MessageCustomizer.PreviewText>
+
+    <MessageCustomizer.FontPreset>Font Preset</MessageCustomizer.FontPreset>
+    <MessageCustomizer.UnsupportedFontTooltip>Selects RimWorld's built-in font. Tiny, Small, and Medium are the only supported presets. Arbitrary font families are not available.</MessageCustomizer.UnsupportedFontTooltip>
+    <MessageCustomizer.FontSize>Font Size</MessageCustomizer.FontSize>
+
+    <MessageCustomizer.TextColor>Text Color</MessageCustomizer.TextColor>
+
+    <MessageCustomizer.TextStroke>Text Stroke</MessageCustomizer.TextStroke>
+    <MessageCustomizer.TextStrokeTooltip>Approximated by drawing offset copies of the message text behind the main label.</MessageCustomizer.TextStrokeTooltip>
+    <MessageCustomizer.TextStrokeThickness>Stroke Thickness</MessageCustomizer.TextStrokeThickness>
+    <MessageCustomizer.TextStrokeColor>Stroke Color</MessageCustomizer.TextStrokeColor>
+
+    <MessageCustomizer.Background>Message Background</MessageCustomizer.Background>
+    <MessageCustomizer.BackgroundVanillaVisibility>Use Vanilla Background Visibility</MessageCustomizer.BackgroundVanillaVisibility>
+    <MessageCustomizer.BackgroundOpacity>Background Opacity</MessageCustomizer.BackgroundOpacity>
+    <MessageCustomizer.BackgroundColor>Background Color</MessageCustomizer.BackgroundColor>
+
+    <MessageCustomizer.Border>Message Border</MessageCustomizer.Border>
+    <MessageCustomizer.BorderThickness>Border Thickness</MessageCustomizer.BorderThickness>
+    <MessageCustomizer.BorderColor>Border Color</MessageCustomizer.BorderColor>
+</LanguageData>
